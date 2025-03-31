@@ -1,0 +1,2 @@
+var n=Object.defineProperty;var e=(t,r)=>n(t,"name",{value:r,configurable:!0});import{h as i,c as o}from"./index-64dc6460.js";import{s as a,B as s}from"./Buttons.module-e818c1ea.js";const u=e(t=>o(s,{get id(){return t.id},get class(){return a.primary},get onClick(){return t.onClick},get disabled(){return t.disabled},get type(){return t.type},get children(){return t.children}}),"ButtonPrimary"),m=i(u);export{m as B};
+//# sourceMappingURL=ButtonPrimary-1f64caa8.js.map

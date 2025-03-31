@@ -1,0 +1,2 @@
+const e="_feedsRestoreModal_517ug_1",o="_feedConfirmationTitle_517ug_10",t="_feedConfirmationDescription_517ug_18",n="_feedConfirmationActions_517ug_25",i="_feedRestoreConfirm_517ug_32",r="_feedRestoreAbort_517ug_43",f="_confirmAlternateModal_517ug_57",s="_hidden_517ug_110",d={feedsRestoreModal:e,feedConfirmationTitle:o,feedConfirmationDescription:t,feedConfirmationActions:n,feedRestoreConfirm:i,feedRestoreAbort:r,confirmAlternateModal:f,hidden:s};export{d as s};
+//# sourceMappingURL=ConfirmModal.module-73b4314e.js.map

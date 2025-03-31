@@ -1,0 +1,2 @@
+var n=Object.defineProperty;var e=(t,r)=>n(t,"name",{value:r,configurable:!0});import{h as o,c as i}from"./index-64dc6460.js";import{s as u,b as m}from"./Buttons.module-e818c1ea.js";const s=e(t=>i(m.Root,{get id(){return t.id},get class(){return u.premium},get onClick(){return t.onClick},get disabled(){return t.disabled},get type(){return t.type},get children(){return t.children}}),"ButtonPremium"),l=o(s);export{l as B};
+//# sourceMappingURL=ButtonPremium-cdbfc08e.js.map

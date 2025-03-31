@@ -1,0 +1,2 @@
+var n=Object.defineProperty;var a=(e,l)=>n(e,"name",{value:l,configurable:!0});import{a as i}from"./index-c76cfba2.js";import{a as t}from"./5WXHJDCZ-8b9b8e69.js";function u(e={}){const[l,c]=i({value:()=>t(e.isSelected),defaultValue:()=>!!t(e.defaultIsSelected),onChange:s=>e.onSelectedChange?.(s)});return{isSelected:l,setIsSelected:a(s=>{!t(e.isReadOnly)&&!t(e.isDisabled)&&c(s)},"setIsSelected"),toggle:a(()=>{!t(e.isReadOnly)&&!t(e.isDisabled)&&c(!l())},"toggle")}}a(u,"createToggleState");export{u as c};
+//# sourceMappingURL=VI7QYH27-fb7b5f5a.js.map

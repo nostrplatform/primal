@@ -1,0 +1,2 @@
+var t=Object.defineProperty;var o=(r,i)=>t(r,"name",{value:i,configurable:!0});import{i as a}from"./index-b4296c5e.js";import{o as n,cL as p,cM as e}from"./index-64dc6460.js";import{i as s}from"./BannerIOS-4372487a.js";import"./primal_white-9ad5c7e6.js";import"./open_white-d7ddfa1e.js";const u=o(()=>(n(()=>{if(s()){window.location.replace(p);return}if(a()){window.location.replace(e);return}window.location.replace("https://primal.net/home")}),[]),"AppDownloadQr");export{u as default};
+//# sourceMappingURL=appDownloadQr-e8a9c6f6.js.map

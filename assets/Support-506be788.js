@@ -1,0 +1,2 @@
+var r=Object.defineProperty;var e=(t,a)=>r(t,"name",{value:a,configurable:!0});import{l as s,m as p,t as o}from"./index-64dc6460.js";import{s as m}from"./Terms.module-d842fa87.js";const l=o('<div><h1>Primal Support</h1><p>Last updated on: September 14, 2023</p><p>For assistance when using Primal products, please feel free to contact us via email: <a href="mailto:support@primal.net">support@primal.net</a>. '),c=e(()=>(()=>{const t=l();return s(()=>p(t,m.terms)),t})(),"Support");export{c as default};
+//# sourceMappingURL=Support-506be788.js.map

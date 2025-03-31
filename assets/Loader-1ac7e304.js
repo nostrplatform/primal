@@ -1,0 +1,2 @@
+var d=Object.defineProperty;var s=(a,e)=>d(a,"name",{value:e,configurable:!0});import{h as n,l,s as v,m as _,t as c}from"./index-64dc6460.js";const u="_loader_dvaxu_1",i={loader:u,"loader-1":"_loader-1_dvaxu_1"},$=c("<div><span>"),m=s(a=>(()=>{const e=$();return l(t=>{const o=a.id,r=i.loader;return o!==t._v$&&v(e,"id",t._v$=o),r!==t._v$2&&_(e,t._v$2=r),t},{_v$:void 0,_v$2:void 0}),e})(),"Loader"),L=n(m);export{L};
+//# sourceMappingURL=Loader-1ac7e304.js.map

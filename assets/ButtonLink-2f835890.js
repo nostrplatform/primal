@@ -1,0 +1,2 @@
+var r=Object.defineProperty;var e=(t,n)=>r(t,"name",{value:n,configurable:!0});import{h as i,c as o}from"./index-64dc6460.js";import{s as l,B as s}from"./Buttons.module-e818c1ea.js";const u=e(t=>o(s,{get id(){return t.id},get class(){return l.link},get onClick(){return t.onClick},get disabled(){return t.disabled},get title(){return t.title},get children(){return t.children}}),"ButtonLink"),g=i(u);export{g as B};
+//# sourceMappingURL=ButtonLink-2f835890.js.map
