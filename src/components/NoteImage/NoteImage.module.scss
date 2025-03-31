@@ -1,0 +1,17 @@
+.noteImage {
+  display: block;
+  object-fit: cover;
+  z-index: 22;
+  // max-width: 528px;
+}
+
+.shortHeight {
+  max-height: 680px;
+}
+
+.placeholderImage {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: var(--devider);
+}
